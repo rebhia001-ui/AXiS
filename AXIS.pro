@@ -12,6 +12,7 @@ SOURCES += \
     connexion.cpp \
     employe.cpp \
     intervention.cpp \
+    materiel.cpp \
     charts.cpp \
     vehiculedonut.cpp
 
@@ -20,6 +21,7 @@ HEADERS += \
     connexion.h \
     employe.h \
     intervention.h \
+    materiel.h \
     charts.h \
     vehiculedonut.h
 
